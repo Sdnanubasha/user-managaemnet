@@ -1,0 +1,64 @@
+.table-outcut{
+    margin-top: 0px;
+    margin-left: 25%;
+    background-color: white;
+}
+thead th{
+    height: 40px;
+    width:200px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+/* thead #operations{
+    width:290 ;
+} */
+.operation-data{
+    width: 230px;
+}
+tbody td{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 25px;
+}
+.edit-btn{
+    background-color: aqua;
+    width: 25%;
+    color: rgb(255, 255, 255);
+    font-size:small;
+    text-align: center;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+button:hover{
+    transform: scale(1.04);
+    transition: 500ms;
+}
+.delete-btn{
+    background-color: rgb(255, 0, 0);
+    width: 25%;
+    color: white;
+    font-size: small;
+    text-align: center;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+.view-btn{
+    background-color: rgb(171, 176, 176);
+    width: 25%;
+    color: white;
+    font-size: small;
+    text-align: center;
+    padding: 7px;
+    margin-bottom: 20px;
+}
+
+.adduser-btn{
+    background-color: rgb(255, 255, 255);
+    width: 5%;
+    margin-left: 26%;
+    color: rgb(0, 0, 0);
+    font-size: small;
+    text-align: center;
+    padding: 7px;
+    margin-bottom: 20px;
+}
